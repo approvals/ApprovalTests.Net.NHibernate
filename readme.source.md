@@ -17,4 +17,4 @@ https://nuget.org/packages/ApprovalTests.NHibernate/
 ## Links
 
  * NuGet: https://nuget.org/packages/ApprovalTests.NHibernate/
- * Build: [![Build Status](https://dev.azure.com/approvals/ApprovalTests.Net.NHibernate/_apis/build/status/approvals.ApprovalTests.Net.NHibernate?branchName=master)](https://dev.azure.com/approvals/ApprovalTests.Net.NHibernate/_build/latest?definitionId=1&branchName=master)
+ * Build: [![Build Status](https://dev.azure.com/approvals/ApprovalTests.Net.NHibernate/_apis/build/status/approvals.ApprovalTests.Net.NHibernate?branchName=master)](https://dev.azure.com/approvals/ApprovalTests.Net.NHibernate/_build/latest?definitionId=5&branchName=master)
